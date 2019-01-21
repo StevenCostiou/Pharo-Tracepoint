@@ -7,7 +7,7 @@ Known bugs and limitations:
 - When put on temporary variables, an #isGlobal DNU is raised in the Reflectivity classes. This bug is solved but not integrated yet.
 - Sometimes putting multiple tracepoints within the same method disables all tracepoints installed in this method.
 - It is not possible to refer to local variables by name.
-- There are problems and unfinished business in the installation gui (syntac highlighting, visual updates...).
+- There are problems and unfinished business in the installation gui (syntax highlighting, visual updates...).
 
 ## Tracepoint definition from source code menu
 ![alt text](https://github.com/StevenCostiou/Pharo-Tracepoint/blob/master/tracepoint-video.gif)
