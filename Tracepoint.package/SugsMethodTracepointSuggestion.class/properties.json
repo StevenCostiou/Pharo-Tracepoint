@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "SugsTracepointSuggestion",
+	"category" : "Tracepoint",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SugsMethodTracepointSuggestion",
+	"type" : "normal"
+}
